@@ -1,0 +1,46 @@
+.BillAmount {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.BillAmountLabel {
+  color: rebeccapurple;
+  padding-right: 29px;
+  height: 25px;
+  font-weight: 640;
+}
+
+.AmountPaid {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.AmountPaidLabel {
+  color: rebeccapurple;
+  padding-right: 30px;
+  height: 25px;
+  font-weight: 640;
+}
+
+.Buttons {
+  display: flex;
+  flex-direction: row;
+  /* border: 1px solid tomato; */
+  width: 412px;
+  height: 25px;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+.ResetButton {
+  margin-right: 30px;
+  font-size: 15px;
+}
+
+.SubmitButton {
+  font-size: 15px;
+}

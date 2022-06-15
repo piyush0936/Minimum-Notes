@@ -1,0 +1,61 @@
+.Amount {
+  color: darkgreen;
+  font-size: 20px;
+  margin-bottom: 5px;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.Table {
+  border: 4px double darkgoldenrod;
+  /* border-radius: 8px; */
+  padding: 2px;
+}
+
+.TablesHeadingDef {
+  color: brown;
+  background-color: rgba(245, 238, 100, 0.721);
+}
+
+.TablesHeadingMin {
+  color: rgb(94, 61, 107);
+  background-color: rgba(245, 238, 100, 0.721);
+}
+
+.TablesDescDef {
+  color: brown;
+  font-size: 17px;
+}
+
+.TablesDescNew {
+  color: rgb(94, 61, 107);
+  font-size: 17px;
+}
+
+.TablesDescDef tr:nth-child(even) {
+  background-color: rgb(155, 224, 186);
+}
+.TablesDescDef tr:nth-child(odd) {
+  background-color: rgba(195, 210, 239, 0.35);
+}
+
+.TablesDescDef tr td:nth-child(even) {
+  padding: 0px 50px 0px 50px;
+}
+.TablesDescDef tr td:nth-child(odd) {
+  padding: 0px 50px 0px 50px;
+}
+
+.TablesDescNew tr:nth-child(even) {
+  background-color: rgb(155, 224, 186);
+}
+.TablesDescNew tr:nth-child(odd) {
+  background-color: rgba(195, 210, 239, 0.35);
+}
+
+.TablesDescNew tr td:nth-child(even) {
+  padding: 0px 50px 0px 50px;
+}
+.TablesDescNew tr td:nth-child(odd) {
+  padding: 0px 50px 0px 50px;
+}

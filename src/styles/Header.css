@@ -1,0 +1,15 @@
+.header {
+  color: red;
+  text-align: center;
+  font-size: 30px;
+  padding: 10px;
+  margin-top: 1px;
+  margin-bottom: 20px;
+  border: 3px dashed green;
+  border-radius: 25px;
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(247, 221, 243, 0.8),
+    rgba(247, 221, 243, 0.3)
+  );
+}
